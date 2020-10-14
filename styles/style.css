@@ -1094,7 +1094,7 @@ body .container {
   font-size: 50px;
 }
 
-.services__gal-title .icon-cart {
+svg.icon-cart {
    margin-right: 32px;
 }
 
